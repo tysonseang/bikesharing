@@ -27,16 +27,15 @@ high-level summary of results
 
 
 
-![Parent Category Outcomes](https://github.com/tysonseang/kickstarter-analysis/blob/main/Resources/Parent%20Category%20Outcomes%20Chart.png)
-
-![Opportunity]()
-![Starting & Stopping Locations]()
-![Trip Duration]()
-![Trip Duration by Gender]()
-![Trips by Gender Weekday per Hour]()
-![Trips per Weekday per Hour]()
-![User Trips by Gender by Weekday]()
-![Users]()
 
 
-test test test
+![Opportunity](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Opportunity.png)
+![Starting & Stopping Locations](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Starting%20%26%20Stopping%20Locations.png)
+![Trip Duration](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trip%20Duration%20by%20Gender.png)
+![Trip Duration by Gender](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trip%20Duration.png)
+![Trips by Gender Weekday per Hour](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips per Weekday per Hour](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trips%20per%20Weekday%20(per%20Hour).png)
+![User Trips by Gender by Weekday](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+![Users](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Users.png)
+
+
