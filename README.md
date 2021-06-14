@@ -11,14 +11,19 @@ After cleaning data using Pandas, data was imported in Tableau and analzyed acro
 [link to dashboard](https://public.tableau.com/app/profile/sean3063/viz/CitiBikeChallenge_16236031764730/CitiBikePresentation "Link to dashboard")
 
 
+### Opportunity
+
 The first story point showcases that a significant opportunity exists for a bike-sharing program in Des Moines if it can learn from citibike's success in New York City. More than 2 million trips were taken in NYC during the time period analyzed. An investment in roughly 14K bikes provided users all across the city with the option to explore "the Big Apple" on two wheels. 
+
 ![Opportunity](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Opportunity.png)
 
-Citibike's most common users are male subscribers. Subscribers represt 4/5ths of the company's userbase.
+### Users
+
+Citibike's most common users are male subscribers. Citibike subscribers represent 4/5ths of the company's userbase.
 
 ![Users](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Users.png)
 
-Trip starting and ending locations can be collected and analyzed to determine the best locations for our bikes. As an example, a significant number of New York trips occur in Manhattan, south of Central Park. 
+Trip starting and ending locations can be collected and analyzed to determine the best locations for our bikes. As an example, a significant number of New York trips occur in Manhattan, south of Central Park. Data can be collected in Des Moines to iterate and improve our offering. 
 
 ![Starting & Stopping Locations](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Starting%20%26%20Stopping%20Locations.png)
 
@@ -26,23 +31,24 @@ A vast majority of  trips in NYC are under 30 minutes in length. This metric is 
 
 ![Trip Duration](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trip%20Duration%20by%20Gender.png)
 
-Gender was also analyzed to gauge its impact on trip duration. No significant differences were noted. 
+Gender was also analyzed to determine its impact on trip duration. No significant differences were noted. 
 
 ![Trip Duration by Gender](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trip%20Duration.png)
 
-The busiest times of day coincided with morning and evening rush hours during the work week and between 10 AM - 7 PM on Saturdays.
+The busiest times of day coincide with morning and evening rush hours during the work week and between 10 AM - 7 PM on Saturdays.
 
 ![Trips per Weekday per Hour](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trips%20per%20Weekday%20(per%20Hour).png)
 
-Gender was analyzed once again for its impact on popular trip times. Men and women followed similar usage patterns for trips by weekday per hour.
+Gender was analyzed again to determine its impact on popular trip times. Men and women followed similar usage patterns for trips by weekday per hour.
 
 ![Trips by Gender Weekday per Hour](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-Lastly, the number of bike trips by gender for each hour of each day of the week was also analyzed across customer types. Customers with an unknown gender are most frequenly riding on Saturdays and Sundays. Among days of the typical work week, male & female subcribers are least likely to take a bike trip on Wednesdays. 
+Lastly, the number of bike trips by gender for each hour of each day of the week was analyzed across customer types. Customers with an unknown gender are most frequenly riding on Saturdays and Sundays. Among days of the typical work week, male & female subcribers are least likely to take a bike trip on Wednesdays. 
 
 ![User Trips by Gender by Weekday](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ## Summary
+
 Overall, citibike has a strong business that has provided more than 2 million rides during the time period analyzed. The business has a large subscription pool of users that covers more than 80% of its customer base, indicating long-term, repeat interest by its riders. Its customer base in largely male, and a majority of trips are under 30 minutes in length. Riders are also most likely to access the service during typical commuting hours during the workweek and throughout the day on Saturdays.
 
 Further analysis can be conducted on station locations and citibike's typical customers/subscribers. The following visualziations are suggested:
