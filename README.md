@@ -8,10 +8,10 @@ The purpose of this analysis is to present data to support a business proposal f
 
 After cleaning data using Pandas, data was imported in Tableau and analzyed across various sheets and dashboards before being placed in the Tableau story below.
 
-[link to dashboard](https://public.tableau.com/app/profile/sean3063/viz/CitiBikeChallenge_16236031764730/CitiBikePresentation "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/sean3063/viz/CitiBikeChallenge_16236031764730/CitiBikePresentation "Link to dashboard")
 
-The first story point showcases that a significant opportunity exists for a bike-share program in Des Moines if it can learn from the success that citibike has experienced in New York City. More than 2 million trips were taken during the time period analyzed. An investment in roughly 14K bikes provided users all across the city with the option to explore "the Big Apple" on two wheels. 
 
+The first story point showcases that a significant opportunity exists for a bike-sharing program in Des Moines if it can learn from citibike's success in New York City. More than 2 million trips were taken in NYC during the time period analyzed. An investment in roughly 14K bikes provided users all across the city with the option to explore "the Big Apple" on two wheels. 
 ![Opportunity](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Opportunity.png)
 
 Citibike's most common users are male subscribers. Subscribers represt 4/5ths of the company's userbase.
