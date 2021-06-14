@@ -53,7 +53,7 @@ Gender was analyzed again to determine its impact on popular trip times. Men and
 
 ![Trips by Gender Weekday per Hour](https://github.com/tysonseang/bikesharing/blob/main/Story%20images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-#### USer Trips by Gender by Weekday
+#### User Trips by Gender (Weekday per Hour)
 
 Lastly, the number of bike trips by gender for each hour of each day of the week was analyzed across customer types. Customers with an unknown gender are most frequenly riding on Saturdays and Sundays. Among days of the typical work week, male & female subcribers are least likely to take a bike trip on Wednesdays. 
 
@@ -67,7 +67,7 @@ Further analysis can be conducted on station locations and citibike's typical cu
 
 - In addition to a worksheet that maps out ride count by location, a bar chart on the same dashboard that shows the Station ID sorted by ride count would be useful. This list could be used to determine the necessary inventory levels at each station in order to better serve the most popular locations. 
 
-- Secondly, an analysis of ride counts by customer/subscriber birth years would provide additional customer insights for targeted marketing campaigns. 
+- Secondly, an analysis of ride counts by birth year for customers and subscribes would provide additional customer insights for targeted marketing campaigns. 
 
 
 
